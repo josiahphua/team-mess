@@ -1,0 +1,42 @@
+.navbar {
+    padding: 1rem 3rem;
+}
+
+.btn {
+    margin-left: 0.5rem;
+}
+
+.navbar .navbar-brand {
+    font-weight: 600;
+    font-size: 1.5rem
+}
+
+.navbar-nav>.nav-link > a {
+    background-color: red
+}
+
+.navbar-nav >a> button {
+    border-radius: 30px;
+    color:white;
+}
+
+h5, h5+div.form-group {
+    text-align: center;
+}
+
+.form-label{
+    font-weight: bold;
+}
+
+form> .btn {
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    margin-top: .5rem;
+
+}
+
+#emailnav {
+    border-radius: 30px;
+    border: 1px solid rgba(255,255,255, 0.3);
+}

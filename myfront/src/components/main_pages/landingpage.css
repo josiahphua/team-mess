@@ -1,0 +1,10 @@
+body {
+    background: white;
+    background-image: url("https://images.pexels.com/photos/3771790/pexels-photo-3771790.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3771790.jpg&fm=jpg");
+    background-size: cover;
+}
+
+#logindiv>a>button.btn {
+    margin-top: .5em;
+}
+
